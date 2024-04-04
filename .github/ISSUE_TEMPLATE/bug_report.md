@@ -7,32 +7,48 @@ assignees: vijayarora003
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+# Bug Report
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## Bug Description
+[Provide a brief description of the bug you encountered]
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Steps to Reproduce
+1. [First step to reproduce the bug]
+2. [Second step to reproduce the bug]
+3. [Continue with steps if applicable]
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Expected Behavior
+[Describe what you expected to happen when performing the steps above]
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Actual Behavior
+[Describe what actually happened when performing the steps above]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## Screenshots / Videos
+[If applicable, attach screenshots or videos demonstrating the issue]
 
-**Additional context**
-Add any other context about the problem here.
+## Device Information
+- **Device:** [e.g., iPhone 12 Pro]
+- **iOS Version:** [e.g., iOS 15.0]
+- **App Version:** [e.g., 1.2.3]
+
+## Additional Information
+[Any additional information that might be relevant to reproduce or understand the issue better]
+
+## Severity / Priority
+- [ ] Critical: App crashes or renders unusable.
+- [ ] Major: Major functionality broken, significant impact on user experience.
+- [ ] Moderate: Minor functionality broken, moderate impact on user experience.
+- [ ] Minor: Minor issue, low impact on user experience.
+- [ ] Trivial: Cosmetic issue or typo.
+
+## Workaround
+[If known, provide any workaround that can temporarily mitigate the issue]
+
+## Related Issues
+[If there are any related issues or duplicates, mention them here]
+
+## Assigned To
+[If applicable, mention who the bug is assigned to]
+
+## Reported By
+[Your Name or Username]

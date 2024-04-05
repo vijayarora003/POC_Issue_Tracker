@@ -44,7 +44,7 @@ body:
          - Coin Ordering
          - Delivery Reception
          - Box Label Error
-          - Others
+         - Others
       default: 0
     validations:
       required: true

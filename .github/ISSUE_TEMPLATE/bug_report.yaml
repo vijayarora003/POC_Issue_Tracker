@@ -39,7 +39,7 @@ body:
     attributes:
       label: App Feature
       description: At what point issue was experienced?
-       options:
+      options:
          - DSD Purchase Orders
          - Coin Ordering
          - Delivery Reception
